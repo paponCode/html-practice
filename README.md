@@ -1,4 +1,4 @@
-# html-practice-day7
+# html-practice-on-7Days
 Daily HTML practice for web development fundamentals.
 
 ## 📌 Project Focus
