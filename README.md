@@ -10,41 +10,6 @@
 
 ---
 
-## 👋 Hi there, I'm **Papon Basunia**
-
-🚀 A passionate **Full Stack Web Developer** who loves building beautiful, modern, and scalable web applications.  
-💡 I believe in writing clean, maintainable code and always keep learning new technologies.
-
----
-
-### 🧰 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma" />
-</p>
-
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=paponCode&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=paponCode&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paponCode&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌐 **Connect with Me**
-<p align="center">
-  <a href="https://github.com/paponCode" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/paponCode" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
