@@ -25,7 +25,7 @@ I focus on creating clean, efficient, and user-friendly web applications using m
   <li>🎯 Goal: To become a professional <b>Software Engineer</b></li>
 </ul>
 
-> “If you do what you studied, you will survive. But if you do what you haven’t studied, you will become a leader.”
+> “Code with passion, design with purpose, and build experiences that matter.””
 
 ---
 
