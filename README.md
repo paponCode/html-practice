@@ -1,6 +1,6 @@
-<!-- 🎨 Modern Banner Section -->
+<!-- 🟢 Working Modern Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Welcome%20to%20paponCode%20💻&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Papon%20Basunia%20|%20Full%20Stack%20Developer%20|%20React%20%26%20Next.js&descAlignY=55&descAlign=50" alt="Welcome Banner"/>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=✨+Welcome+to+paponCode+✨;Building+Modern+Web+Experiences;Full+Stack+Developer+|+React+%26+Next.js+💻" alt="paponCode banner" />
 </p>
 
 ---
