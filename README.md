@@ -1,20 +1,22 @@
-# html-practice-on-7Days
-Daily HTML practice for web development fundamentals.
+Hi there, I'm Papon Basunia 👋
+Typing SVG
 
-## 📌 Project Focus
-On Day 7, the focus is on practicing:
-- Semantic HTML tags
-- Lists (Ordered & Unordered)
-- Tables
-- Forms (Basic Inputs)
-- Media Elements (Images, Video, Audio)
-- Links and Navigation
+🚀 About Me
+I'm a passionate Full Stack Developer who believes in building solutions that make a difference. I thrive on turning complex problems into elegant, user-friendly applications.
 
-## 🚀 Objective
-Improve HTML structure and strengthen foundational web development skills.
+🌱 Currently mastering Advanced JavaScript and modern Web Development practices
+💡 Focused on building projects that solve real-world problems
+🤝 Open to collaborating on open-source projects
+🎯 Always learning, always growing
+💬 Ask me about React, Node.js, or Web Development
+"If you do what you studied, you will survive. But if you do what you haven't studied, you will become a leader."
 
-## 🎯 Learning Outcomes
-- Understanding of semantic elements
-- Proper usage of lists and tables
-- Structuring forms correctly
-- Embedding images and media
+🛠️ Tech Stack
+Frontend
+HTML5 CSS3 JavaScript React Next.js Vue.js TailwindCSS Styled Components
+
+Backend
+Node.js Express.js Firebase
+
+Tools & Platforms
+Git GitHub VS Code Vite Linux
