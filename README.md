@@ -2,6 +2,10 @@
 
 ### 🚀 Full Stack Web Developer
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+paponCode!;Full+Stack+Web+Developer+💻;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+</h1>
+
 ---
 
 ## 💫 About Me
