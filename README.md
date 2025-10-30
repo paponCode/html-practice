@@ -1,6 +1,13 @@
-<!-- 🎨 Modern Banner Section -->
+<!-- 🎨 Modern Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=Welcome%20to%20paponCode%20💻&fontSize=42&fontAlignY=38&fontColor=FFFFFF&desc=Papon%20Basunia%20%7C%20Full%20Stack%20Developer%20%7C%20React%20%26%20Next.js&descAlignY=58&descAlign=50" alt="Welcome Banner"/>
+</p>
+
+<!-- 🧠 Typing SVG Animation -->
+<p align="center">
+  <a href="https://github.com/paponCode">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Passionate+about+React+%26+Next.js;Building+modern+%26+scalable+web+apps;Welcome+to+paponCode+👨‍💻" alt="Typing Animation" />
+  </a>
 </p>
 
 ---
