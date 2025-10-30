@@ -1,8 +1,8 @@
 <!-- 🎨 Waving Gradient Banner -->
+<!-- 🎨 Waving Gradient Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/3s6rZyP/paponcode-banner.png" alt="Welcome to PaponCode" width="800"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=220&section=header&text=Welcome%20to%20PaponCode%20🚀&fontSize=40&fontAlignY=38&fontColor=FFFFFF&desc=Full%20Stack%20Developer%20|%20React%20%26%20Next.js&descAlignY=58&descAlign=50" alt="Welcome Banner"/>
 </p>
-
 # Hi there, I'm Papon Basunia 👋
 
 ### 🚀 Full Stack Web Developer
