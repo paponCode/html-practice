@@ -16,14 +16,12 @@
 
 ## 💫 About Me
 
-## 💫 About Me
-
-<p style="font-size: 14px;">
+<p style="font-size: 12px;">
 I'm a passionate <b>Full Stack Developer</b> who loves turning ideas into real-world digital experiences.<br/>
 I focus on creating clean, efficient, and user-friendly web applications using modern technologies.
 </p>
 
-<ul style="font-size: 13px;">
+<ul style="font-size: 11px;">
   <li>🌱 Currently learning <b>Advanced JavaScript</b> and <b>Next.js</b></li>
   <li>💡 Building projects that solve <b>real-world problems</b></li>
   <li>🤝 Open to collaborating on <b>open-source projects</b></li>
