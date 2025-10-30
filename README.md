@@ -1,3 +1,32 @@
+<!-- Modern Card-style Welcome (put at top of README) -->
+<div align="center" style="background: linear-gradient(135deg,#071029 0%, #0b1220 100%); border-radius: 14px; padding: 22px 28px; max-width: 900px; margin: 18px auto; box-shadow: 0 8px 30px rgba(2,6,23,0.6);">
+  <h1 style="margin: 0; font-family: 'Fira Code', 'Segoe UI', Roboto, Arial; color: #00f2ff; font-size: 34px; letter-spacing: 0.6px;">
+    ✨ Welcome to <span style="color:#fff; background: linear-gradient(90deg,#6EE7B7,#3B82F6); -webkit-background-clip:text; background-clip:text; color:transparent; padding:0 6px; border-radius:6px;">paponCode</span> ✨
+  </h1>
+
+  <p style="margin: 8px 0 16px 0; color: #9aa6b2; font-size: 14px;">
+    Hi there, I'm <strong style="color:#ffffff">Papon Basunia</strong> 👋 — building clean, modern web apps with love.
+  </p>
+
+  <div style="display:flex; gap:10px; justify-content:center; align-items:center; flex-wrap:wrap;">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
+
+  <div style="margin-top:14px;">
+    <a href="https://github.com/paponCode" style="text-decoration:none;">
+      <img alt="Visit GitHub" src="https://img.shields.io/badge/-Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="#" style="text-decoration:none; margin-left:8px;">
+      <img alt="Contact" src="https://img.shields.io/badge/-Say%20Hi-00A6FF?style=for-the-badge" />
+    </a>
+  </div>
+</div>
+
+
+
 # Hi there, I'm Papon Basunia 👋
 
 ### 🚀 Full Stack Web Developer
