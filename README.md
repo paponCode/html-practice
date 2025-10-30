@@ -16,15 +16,15 @@
 
 ## 💫 About Me
 
-I'm a passionate **Full Stack Developer** turning ideas into real-world digital experiences.  
-I focus on creating **clean, efficient, and user-friendly web apps** using modern technologies.
+I’m a passionate Full Stack Developer who loves turning ideas into real-world digital experiences.
+I focus on creating clean, efficient, and user-friendly web applications using modern technologies.
 
-- 🌱 Currently learning **Advanced JavaScript** & **Next.js**  
-- 💡 Building projects that solve **real-world problems**  
-- 🤝 Open to collaborating on **open-source projects**  
-- 📚 Always learning, always improving  
-- 💬 Ask me about **React, Next.js, or Web Development**  
-- 🎯 Goal: To become a professional **Software Engineer**
+- 🌱 Currently learning Advanced JavaScript and Next.js
+- 💡 Building projects that solve real-world problems
+- 🤝 Open to collaborating on open-source projects
+- 📚 Always learning, always improving
+- 💬 Ask me about React, Next.js, or Web Development
+- 🎯 Goal: To become a professional Software Engineer
 
 > “If you do what you studied, you will survive. But if you do what you haven’t studied, you will become a leader.”
 
