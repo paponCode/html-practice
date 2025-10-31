@@ -1,6 +1,5 @@
-<!-- 🎨 Modern Stylish Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=230&section=header&text=Welcome%20to%20paponCode%20💻&fontSize=48&fontAlignY=38&fontColor=FFFFFF&desc=Papon%20Basunia%20|%20Frontend%20Developer%20|%20React%20%26%20Next.js&descAlignY=58&descAlign=50&animation=twinkle" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20paponCode%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome to paponCode Banner" />
 </p>
 
 
