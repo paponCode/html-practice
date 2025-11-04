@@ -6,10 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20💻%20<b>paponCode</b>&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Welcome to paponCode Banner" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Welcome%20to&textColor=FFFFFF&fontSize=36&desc=paponCode&descAlignY=60&descAlign=50&descSize=48&descColor=00C9FF&animation=twinkle" alt="Stylish Welcome Banner" />
-</p>
-
 
 # 👋 Hi there, I'm **Papon Basunia**
 
